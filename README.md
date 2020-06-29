@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 Adding introduction
 ## Purpose
-
+Purpose is to learn merges
 Sample website with plenty of files for demos
 ## How to continue
 I won't commit this time
