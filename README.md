@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 I won't commit this time
 ## Deployment
 adding deployment section
+learning automatic merges
