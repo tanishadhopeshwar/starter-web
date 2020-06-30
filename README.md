@@ -11,5 +11,5 @@ I won't commit this time
 ## Deployment
 adding deployment section
 learning automatic merges
-Editing the readme for rebas example
+Editing the readme for rebase example
 from master branch
