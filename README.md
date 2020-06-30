@@ -12,3 +12,4 @@ I won't commit this time
 adding deployment section
 learning automatic merges
 Editing the readme for rebas example
+from master branch
